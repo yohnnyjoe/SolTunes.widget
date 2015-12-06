@@ -7,6 +7,10 @@ john@tutanota.com
 Thanks for checking out SolTunes.  Please feel free to email me any comments or
 critiques or suggestions. 
 
+
+![](https://github.com/yohnnyjoe/SolTunes.widget/blob/master/screenshot.png)
+
+
 __USAGE__
 
   SolTunes works with Übersicht, which is a program to display Widgets on Mac OS
