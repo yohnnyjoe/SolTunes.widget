@@ -1,7 +1,9 @@
 SolTunes -- The Solarized iTunes display
 
 by John Wachter 12/5/15
+
 https://github.com/yohnnyjoe
+
 john@tutanota.com
 
 Thanks for checking out SolTunes.  Please feel free to email me any comments or
