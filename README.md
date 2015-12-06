@@ -12,7 +12,7 @@ __USAGE__
   SolTunes works with Übersicht, which is a program to display Widgets on Mac OS
 X.  I've only tried it on my machine runnig 10.11.1 so I hope it works for you
 too.  You can get Übersicht from https://github.com/felixhageloh or from
-http://tracesof.net/ubersicht (which has a nice gallery of other widgets as
+http://tracesof.net/uebersicht (which has a nice gallery of other widgets as
 well).
 
 Once Übersicht is installed and the application has been opened, there will be a
