@@ -25,6 +25,10 @@ on iTunes or quit it all together the widget will dissappear.  It's still runnin
 though, and will reappear when you hit play. It will display while movies / tv shows are
 playing.  Maybe something to fix in the future. 
 
+__Switching Between Small and Large Display__
+
+  To switch from large display to small display rename big.coffee to big.coffee.bak then rename small.coffee.bak to small.coffee  To return to big display just repeat steps in reverse.   
+
 
 __Customizing__
 
