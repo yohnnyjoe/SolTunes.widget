@@ -18,7 +18,7 @@ well).
 Once Übersicht is installed and the application has been opened, there will be a
 icon on your menubar.  Click that and choose Open Widgets Folder.  Drag and drop
 SolTunes.widgets folder in there.
-(The Übersicht folder is in ~/Library/Application Support/Übersicht/widgets)
+The Übersicht folder is in `~/Library/Application Support/Übersicht/widgets`.
 
 If iTunes is playing/paused SolTunes widget will be visible.  If you hit stop
 on iTunes or quit it all together the widget will dissappear.  It's still running
