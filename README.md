@@ -25,6 +25,8 @@ on iTunes or quit it all together the widget will dissappear.  It's still runnin
 though, and will reappear when you hit play. It will display while movies / tv shows are
 playing.  Maybe something to fix in the future. 
 
+Changing the name of the folder SolTunes.widget will break functionality, so don't do that.
+
 __Switching Between Small and Large Display__
 
   To switch from large display to small display rename big.coffee to big.coffee.bak then rename small.coffee.bak to small.coffee  To return to big display just repeat steps in reverse.   
@@ -63,7 +65,7 @@ __ISSSUES and BUGS__
 It does work with any Apple Music you've downloaded to your mac.  There have
 also been a couple of instances when it has flashed for a second or two.  Both
 were rare and happened when other applications were getting heavy with the
-resources. It will dissappear if you change refreshFrequency to less than 200.
+resources. It will disappear if you change refreshFrequency to less than 200.
 It will not scroll text automatically, which is a feature that would be nice
 for some of those really long band names.  Let me know if you find any other
 bugs or issues.  
@@ -72,3 +74,5 @@ Thanks & I hope you enjoy.
 
 john@tutanota.com
 https://github.com/yohnnyjoe
+
+
