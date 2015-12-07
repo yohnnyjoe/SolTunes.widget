@@ -10,7 +10,8 @@ Thanks for checking out SolTunes.  Please feel free to email me any comments or
 critiques or suggestions. 
 
 
-![](https://github.com/yohnnyjoe/SolTunes.widget/blob/master/screenshot.png)
+![small](https://github.com/yohnnyjoe/SolTunes.widget/blob/master/small_screenshot.png)
+![big](https://github.com/yohnnyjoe/SolTunes.widget/blob/master/big_screenshot.png)
 
 
 __USAGE__
