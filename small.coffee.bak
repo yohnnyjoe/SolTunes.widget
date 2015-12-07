@@ -34,7 +34,7 @@
 command: "osascript 'SolTunes.widget/pull_track.scpt'"
 
 # Don't set this below 200, it will flash and be a resource hog.
-refreshFrequency: 500  
+refreshFrequency: 1000  
 
 style: """
 
