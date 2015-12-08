@@ -76,6 +76,7 @@ style: """
     text-align: right
 
   .progress
+    max-width: 396px
     width: @width
     height: 104px 
     background: \#002b36

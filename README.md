@@ -41,7 +41,7 @@ __Switching Between Small and Large Display__
 
 __Customizing__
 
-  You can edit the index.coffee file to change the display with css. You can
+  You can edit the small.coffee or big.coffee file to change the display with css. You can
 make it any of the 16,777,216 colors available in CSS. Or you can keep it
 Solarized with any of the __16__ different colors in that beautiful palette.
 Check out http://ethanschoonover.com/solarized for more info, and here's a cheat
